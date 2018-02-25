@@ -1,0 +1,218 @@
+/*
+* @Author: 12079
+* @Date:   2018-02-21 18:40:02
+* @Last Modified by:   12079
+* @Last Modified time: 2018-02-23 18:57:19
+*/
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	width: 100%;
+	height: 13.34rem;
+	background: #3bc1e7;
+	overflow: hidden;
+}
+.box .box1{
+	width: 100%;
+	height: 0.88rem;
+	background-color: #3bc1e7;
+	float: left;
+}
+.box .box1 .box2{
+	width: 0.44rem;
+	height: 0.34rem;
+	background-image: url('../img/b1.png');
+	background-position: center;
+	background-size: cover;
+	margin-left: 0.24rem;
+	margin-top: 0.28rem;
+	float: left;
+}
+.box .box1 .box3{
+	font-size: 0.24rem;
+	color: white;
+	font-family: "苹方";
+	text-align: center;
+	margin-top: 0.3rem;
+	margin-left: 2.8rem;
+	float: left;
+}
+
+.box .box5{
+	width: 7.02rem;
+	height: 11.02rem;
+	background-color: white;
+	margin-top: 0.8rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box4{
+	width: 1.16rem;
+	height: 1.18rem;
+	background-image: url('../img/images/c3.png');
+	background-position: center;
+	background-size: cover;
+	margin-left: 3.1rem;
+	margin-top: -0.6rem;
+	float: left;
+}
+.box .box5 .box6{
+	font-size: 0.34rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 1rem;
+	margin-left: -1.8rem;
+	float: left;
+}
+.box .box5 .box7{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-left: 1.4rem;
+	margin-top: 0.1rem;
+	float: left;
+}
+.box .box5 .box88{
+	width:7.02rem;
+	height: 0.88rem;
+	/* background-color: red; */
+	margin: 0 auto;
+	margin-top: 1.7rem;
+}
+.box .box5 .box8{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box9{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-right:0.2rem;
+	float: right;
+}
+.box .box5 .box99{
+	width:7.02rem;
+	height: 0.88rem;
+	/* background-color: red; */
+	margin: 0 auto;
+	/* margin-top: 1.7rem; */
+}
+.box .box5 .box10{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box11{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-right: 0.2rem;
+	float: right;
+}
+.box .box5 .bo11{
+	width:7.02rem;
+	height: 0.88rem;
+	/* background-color: red; */
+	margin: 0 auto;
+	/* margin-top: 1.7rem; */
+}
+.box .box5 .box12{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box13{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-right: 0.2rem;
+	float: right;
+}
+.box .box5 .bo12{
+	width:7.02rem;
+	height: 0.88rem;
+	/* background-color: red; */
+	margin: 0 auto;
+	/* margin-top: 1.7rem; */
+}
+.box .box5 .box14{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box15{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-right: 0.2rem;
+	float: right;
+}
+.box .box5 .bo13{
+	width:7.02rem;
+	height: 0.88rem;
+	/* background-color: red; */
+	margin: 0 auto;
+	/* margin-top: 1.7rem; */
+}
+.box .box5 .box16{
+	font-size: 0.24rem;
+	color: black;
+	font-family: "苹方";
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box .box5 .box17{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-right: 0.2rem;
+	float: right;
+}
+.box18{
+	width: 3.2rem;
+	height: 0.88rem;
+	background-color: #3dc1e7;
+	border-radius: 0.1rem;
+	margin-top: 3.8rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box18 .box19{
+	font-size: 0.34rem;
+	text-align: center;
+	line-height: 0.88rem;
+	font-family: "苹方";
+	color: #fff;
+}
+.box20{
+	width: 3.2rem;
+	height: 0.88rem;
+	background-color: #3dc1e7;
+	border-radius: 0.1rem;
+	margin-top: 3.8rem;
+	margin-left: 0.24rem;
+	float: left;
+}
+.box20 .box21{
+	font-size: 0.34rem;
+	text-align: center;
+	line-height: 0.88rem;
+	font-family: "苹方";
+	color: #fff;
+}
+

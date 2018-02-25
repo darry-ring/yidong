@@ -1,0 +1,193 @@
+/*
+* @Author: 12079
+* @Date:   2018-02-17 14:36:45
+* @Last Modified by:   12079
+* @Last Modified time: 2018-02-24 21:37:05
+*/
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	width: 100%;
+	height: 13.34rem;
+	/* background-color: red; */
+	float: left;	
+}
+.box .box0{
+	width: 100%;
+	height: 13.34rem;
+	background-image: url('../img/aa2.png');
+	background-size: cover;
+	float: left;
+}
+
+.box0 .box2{
+	width: 1.60rem;
+	height: 1.60rem;
+	background-image: url('../img/images/ab.png');
+	background-position: center;
+	background-size: cover;
+	margin-top: 2.2rem;
+	margin-left: 2.92rem;
+	float: left;
+}
+ .box3{
+	width: 0.34rem;
+	height: 0.24rem;
+	background-image: url('../img/images/ab1_03.png');
+	background-position: center;
+	background-size: cover;
+	margin-left: -4rem;
+	margin-top: 0.26rem;
+	float: left;
+}	
+.box4{
+	font-size: 0.34rem;
+	font-family: “苹方”;
+	/* color:red; */
+	color: #fff;
+	line-height: 0.8rem;
+	margin-left: -1rem;
+	float: left;
+}
+.box44{
+	font-size: 0.24rem;
+	font-family: “苹方”;
+	/* color:red; */
+	color: #fff;
+	line-height: 0.8rem;
+	margin-right: 1rem;
+	float: right;
+}
+.box7{
+	font-size: 0.24rem;
+	font-family: “苹方”;
+	margin: 0 auto;
+	color:white;
+	margin-left: -1.8rem;
+	margin-top:4rem ;
+	float: left;
+}
+.s1 input{
+	width: 6rem;
+	height: 0.74rem;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 0.8rem;
+	margin-top: 1.4rem;
+	padding-left: 0.8rem;
+	border-radius: 0.1rem;
+	box-sizing: border-box;
+	font-size: 0.22rem;
+	color: #676767;
+}
+.s1 .s2{
+	width: 0.2rem;
+	height: 0.2rem;
+	background-image: url('../img/c6.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 5.94rem;
+	left: 1.2rem;
+}
+.s7 input{
+	width: 6rem;
+	height: 0.74rem;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 0.8rem;
+	margin-top: 0.3rem;
+	padding-left: 0.8rem;
+	padding-top: 0.06rem;
+	border-radius: 0.1rem;
+	box-sizing: border-box;
+	font-size: 0.22rem;
+	color: #676767;
+}
+.s3{
+	width: 0.2rem;
+	height: 0.2rem;
+	background-image: url('../img/c7.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 7rem;
+	left: 1.2rem;
+}
+.box8{
+	font-size: 0.24rem;
+	font-family: 苹方；
+	margin: 0 auto;
+	color:white;
+	margin-left:5.8rem;
+	margin-top:0.24rem ;
+	float: left;
+}
+.box9{
+	width:6rem;
+	height: 0.74rem;
+	background-color:#4cc6e9;
+	margin: 0 auto;
+	border-radius: 0.1rem;
+	margin-top:9rem;
+	margin-left: 0.8rem;
+	border: 0.03rem solid white;
+}
+.box9 .box10{
+	font-size: 0.24rem;
+	font-family: "苹方";
+	color:white;
+	text-align: center;
+	line-height: 0.74rem;
+}
+.box11{
+	font-size: 0.24rem;
+	font-family: "苹方";
+	margin: 0 auto;
+	color:white;
+	margin-left: 3.1rem;
+	margin-top: 1.74rem;
+	float: left;
+}
+.box12{
+	width: 0.36rem;
+	height: 0.4rem;
+	background-image: url('../img/c5.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top:2.4rem;
+	margin-left: -3.2rem;
+}
+.box13{
+	width: 0.5rem;
+	height: 0.4rem;
+	background-image: url('../img/c4.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top:2.4rem;
+	margin-left: -0.8rem;
+}
+.box14{
+	width: 0.5rem;
+	height: 0.4rem;
+	background-image: url('../img/c3.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top:2.4rem;
+	margin-left:1.6rem;
+}
+

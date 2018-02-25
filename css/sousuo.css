@@ -1,0 +1,21 @@
+/*
+* @Author: 12079
+* @Date:   2018-02-23 21:29:54
+* @Last Modified by:   12079
+* @Last Modified time: 2018-02-23 21:43:06
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+input{
+	width: 400px;
+	height: 50px;
+	float: left;
+	border: 1px solid red;
+	margin: 40px auto;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 10px;
+}

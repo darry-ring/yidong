@@ -1,0 +1,224 @@
+/*
+* @Author: 12079
+* @Date:   2018-02-18 20:22:12
+* @Last Modified by:   12079
+* @Last Modified time: 2018-02-24 20:34:22
+*/
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	width: 100%;
+	height: 13.34rem;
+	/* background-color: red; */
+	float: left;	
+}
+.box1{
+	width: 100%;
+	height: 13.34rem;
+	background-image: url('../img/d1.png');
+	background-size: cover;
+	float: left;
+}
+ .box2{
+	width: 0.34rem;
+	height: 0.24rem;
+	background-image: url('../img/images/ab1_03.png');
+	background-position: center;
+	background-size: cover;
+	margin-left: -7rem;
+	margin-top: 0.26rem;
+	float: left;
+}	
+.box3{
+	font-size: 0.34rem;
+	font-family: 苹方;
+	/* color:red; */
+	color: #fff;
+	line-height: 0.8rem;
+	margin-left: -4rem;
+	float: left;
+}
+.box1 .box4{
+	width: 5.4rem;
+	height: 0.74rem;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 3.6rem;
+	border-radius: 0.1rem;
+}
+
+.box1 .box40{
+	width: 0.2rem;
+	height: 0.2rem;
+	background-image: url('../img/c6.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 0.26rem;
+	margin-left: 0.3rem;
+	float: left;
+}
+.box1 .box41{
+	font-size: 0.24rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	float: left;
+}
+.box1 .box5{
+	width: 5.4rem;
+	height: 0.74rem;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 0.24rem;
+	border-radius: 0.1rem;
+}
+.box1 .box5 .box50{
+	font-size: 0.24rem;
+	margin-left: 0.3rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	float: left;
+}
+.box1 .box5 .box51{
+	width:1.57rem;
+	height:0.62rem;
+	background-color:#4cc6e9;
+	margin-top: -0.46rem;
+	margin-left: 3.78rem;
+	border-radius: 0.1rem;
+	float: left;
+}
+.box1 .box5 .box52{
+	font-size: 0.24rem;
+	color:white;
+	margin-left: 0.2rem;
+	margin-top: 0.18rem;
+	float: left;
+}
+.box1 .box6{
+	width: 5.4rem;
+	height: 0.74rem;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 0.24rem;
+	border-radius: 0.1rem;
+}
+.box1 .box60{
+	width: 0.22rem;
+	height: 0.24rem;
+	background-image: url('../img/c7.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 0.26rem;
+	margin-left: 0.3rem;
+	float: left;
+}
+.box1 .box61{
+	font-size: 0.24rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	float: left;
+}
+.box1 .box7{
+	width: 5.4rem;
+	height: 0.74rem;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 0.24rem;
+	border-radius: 0.1rem;
+}
+.box1 .box70{
+	width: 0.22rem;
+	height: 0.24rem;
+	background-image: url('../img/c7.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 0.26rem;
+	margin-left: 0.3rem;
+	float: left;
+}
+.box1 .box71{
+	font-size: 0.24rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	float: left;
+}
+.box8{
+	width: 0.2rem;
+	height: 0.2rem;
+	border-radius: 50%;
+	border: 0.03rem solid white;
+	margin-left: 1.07rem;
+	margin-top: 0.22rem;
+}
+.box9{
+	width: 0.06rem;
+	height: 0.06rem;
+	border-radius: 50%;
+	background-color: #4cc6e9;
+	margin: 0 auto;
+	margin-top: 0.06rem;
+}
+.box11{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	margin-top: -0.24rem;
+	margin-left: 1.5rem;
+	float: left;
+}
+.box12{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #4cc6e9;
+	margin-top: -0.24rem;
+	margin-left: 2.9rem;
+	float: left;
+}
+.box13{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #d0d0d0;
+	margin-top: -0.24rem;
+	margin-left:3.7rem;
+	float: left;
+}
+.box14{
+	font-size: 0.2rem;
+	margin-left: 0.2rem;
+	margin-top: 0.24rem;
+	color: #4cc6e9;
+	margin-top: -0.24rem;
+	margin-left:3.9rem;
+	float: left;
+}
+.box10{
+	width:5.40rem;
+	height: 0.74rem;
+	background-color:#4cc6e9;
+	margin: 0 auto;
+	border-radius: 0.1rem;
+	margin-top:0.82rem;
+	border: 0.03rem solid white;
+}
+.box10 .box15{
+	font-size: 0.24rem;
+	margin-top: 0.24rem;
+	margin-left: 2.4rem;
+	color: white;
+}
+
